@@ -1,0 +1,26 @@
+html,
+body {
+	width: 100%;
+	height: 100%;
+}
+
+
+body {
+	background-color: black;
+	background-image: url("anete-lusina-609854-unsplash.jpg");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.container {
+	/*border: 2px solid red;*/
+	color: orange;
+	margin-top:10%;
+	font-weight: bold;
+	text-align: center;
+	/*border:2px solid green;*/
+}
+
+.row {
+	text-align: center;
+}
